@@ -345,8 +345,6 @@ const Index = () => (
 
 					<ContactText>
 						Say <a href="mailto:r.scott.boudreaux@gmail.com">Hi</a>
-						<a href=" ">Dribbble</a>
-						<a href=" ">Instagram</a>
 					</ContactText>
 
 				</Inner>

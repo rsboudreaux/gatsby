@@ -5,7 +5,7 @@ module.exports = {
 
   siteTitle: 'Life Exponential', // Navigation and Site Title
   siteTitleAlt: 'Life Exponential', // Alternative Site title for SEO
-  siteUrl: 'https://troymork.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://troymork.life', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'Live Your Life Exponentially',
